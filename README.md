@@ -1,4 +1,4 @@
-# mirroring Repository (from GitLab to GitHub)
+# Mirroring Repository (from GitLab to GitHub)
  
 
 
